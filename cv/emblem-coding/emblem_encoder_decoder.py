@@ -4,7 +4,7 @@ import cv2
 
 class EmblemEncoderDecoder:
     """
-    Basic EncoderDecoder for an Emblem. Emblem can be any 9-digit number. 
+    Basic EncoderDecoder for an Emblem. Emblem can be any 9-digit number.
     """
 
     def __init__(self):

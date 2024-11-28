@@ -4,8 +4,9 @@ from emblem_encoder_decoder import EmblemEncoderDecoder
 
 class EmblemBuilder:
     """
-    Builds an emblem from a 9-digit number. Uses the EmblemEncoderDecoder to 
-    determine the code to use
+    Builds an emblem from a 9-digit number and generates an emblem img that 
+    represents said number. Uses the EmblemEncoderDecoder to determine the code 
+    to use
     """
 
     def __init__(self):
