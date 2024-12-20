@@ -16,3 +16,6 @@
 # server
 - simple WebRTC server
 - more dedicated WebRTC server like [janus](https://janus.conf.meetecho.com/)
+
+# quality of life
+- would it be better to split the repository into several repos? Might be easier to navigate
